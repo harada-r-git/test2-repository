@@ -1,0 +1,4 @@
+!#/bin/bash
+id;date;uname -n
+mkdir ~harada-r
+ls -l
